@@ -23,3 +23,7 @@ The trained model achieves good accuracy in distinguishing between happy and sad
 Increase dataset size for better generalization.
 Optimize CNN architecture for improved accuracy.
 Deploy the model as a web or mobile application.
+
+
+
+Here you can find the data - https://drive.google.com/drive/folders/1xpM7alXpav_7gklhfKBMCvP8D9q2ETob?usp=drive_link
